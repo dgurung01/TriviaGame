@@ -1,0 +1,21 @@
+.jumbotron{
+    position: relative;
+    padding:10px !important;
+    margin-top:0px !important;
+    background-color: rgba(244, 171, 93, 0.776) !important;
+    text-align:center !important;
+    margin-bottom: 0 !important;
+}
+body{
+    background-image: url("../images/movies.png");
+    /* background-size: 960, 100 !important; */
+}
+.jumbotron-fluid{
+    background-color: rgba(102, 51, 153, 0.701) !important;
+    color:whitesmoke;
+
+}
+.h1{
+    font-family: 'Abril Fatface', cursive;
+
+}
